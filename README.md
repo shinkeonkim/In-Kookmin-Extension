@@ -5,6 +5,7 @@
 ## 🤔 TODO
 추가되었으면 하는 기능 혹은 내용은 개인 연락 혹은 Issue 남겨주시면 감사하겠습니다. Pull requests 환영
 
+- [x] React Chorme extension setting 
 - [ ] Dark Mode / Light Mode
 - [ ] 메뉴바 UI/UX 수정
 - [ ] 일부 contents 잘 보이게 UI 만들어주기
